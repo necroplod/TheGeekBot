@@ -4,7 +4,7 @@
 
 <h1 align="center">[Discord] - TheGeekBot</h1>
 <p align="center">
-  <a href="https://github.com/nordbearbotdev/LaykaBot/blob/main/LICENSE">
+  <a href="https://github.com/Necroplod/TheGeekBot/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-Important">
   </a>
   <a href="https://www.python.org">
