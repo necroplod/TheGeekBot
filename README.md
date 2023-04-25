@@ -11,13 +11,3 @@
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
 </p>
-
-# Содержание
-* [Что такое TheGeekBot]()
-* [Функции]()
-
-# Что такое TheGeekBot?
-[TheGeekBot]() - Простой бот, написанный для дискорд сервера команды актеров озвучки The Geek Voice
-
-# Функции
-- Пока-что нету ¯\_(ツ)_/¯
